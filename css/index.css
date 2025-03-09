@@ -1,0 +1,12 @@
+.d-block {
+    width: 100%;
+    height: 400px;
+    object-fit: contain;
+}
+
+.card{
+    margin: 15px;
+}
+.sectionCards{
+    display: flex;
+}
